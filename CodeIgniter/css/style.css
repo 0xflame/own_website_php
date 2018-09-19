@@ -1,0 +1,54 @@
+/*
+style css Item1 TP HTML-XHTML
+Cédric Klein
+*/
+
+body
+{
+	background-color: black;
+	color: white;
+}
+
+a
+{
+	color: aqua;
+}
+
+a:visited
+{
+	color: red;
+}
+
+h1
+{
+	color: red;
+	text-align: center;
+	margin-top: 0px;
+}
+
+.pbf
+{
+	color: gray;
+}
+
+.visible
+{
+	border: 1px solid grey;
+}
+
+th.vis
+{
+	border: 1px solid gray;
+	background-color: gray;
+}
+
+table.cell
+{
+	border-collapse: separate;
+	border-spacing: 25px;
+}
+
+table.cen 
+{
+	margin: 0 auto;
+}
